@@ -16,7 +16,7 @@ from rest_framework.renderers import JSONRenderer
 # Create your views here.
 
 # there's a better pre-conceived way using by drf for loging in a user that i use in the class based view demo
-# just a sample for using login strategy in view based function
+# just a sample for using login strategy in function based view
 
 
 @api_view(["POST"])
